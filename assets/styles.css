@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(242, 245, 246);
+}
+
+.bg-doctors-container {
+    min-width: 100vh;
+    min-height: 100vh;
+}
+
+.doctors-img {
+    z-index: -1;
+    position: fixed;
+    bottom: 0%;
+    right: 12%;
+    width: auto;
+    height: 58%;
+}
+
+div {
+    opacity: 0.99;
+}
+
+.region-details {
+    line-height: 1.8em;
+}
